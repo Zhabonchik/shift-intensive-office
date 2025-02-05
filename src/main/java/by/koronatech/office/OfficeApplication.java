@@ -9,5 +9,4 @@ public class OfficeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OfficeApplication.class, args);
 	}
-
 }
